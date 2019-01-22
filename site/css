@@ -1,0 +1,19 @@
+ body{
+	background-color:lightgray;
+}
+div{
+	display:inline-grid;
+}
+.col-4 {
+	width:33%;
+	background-color:darkred;
+S
+	}
+h1{
+	text-align:center;
+	display:block;
+}
+h2{ background-color:orange;
+	display:inline;
+	text-align:center;
+}
